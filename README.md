@@ -143,7 +143,11 @@ It can be extended with:
 ## 🖼️ Screenshots 
 
 ![Home](ProjectSS/ss1.png)
+-----
 ![Home](ProjectSS/ss2.png)
+-----
 ![Home](ProjectSS/ss3.png)
+-----
+![Home](ProjectSS/ss4.png)
 
 
