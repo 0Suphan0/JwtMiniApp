@@ -1,0 +1,6 @@
+@JwtMiniApi_HostAddress = http://localhost:5087
+
+GET {{JwtMiniApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
